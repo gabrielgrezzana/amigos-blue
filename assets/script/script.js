@@ -61,6 +61,15 @@ array = [
 		likedIn: 'https://www.linkedin.com/in/jardejane-feitosa-lima-60a6851a4/',
 		personalWebpage: 'https://jardejane.github.io/Perfil/portifolio/portifolio.html',
 	},
+	{
+		name: 'Gabriel Grezzana',
+		specialty: 'Full Stack Developer',
+		class: '017',
+		githubUser: 'GabrielGrezzana',
+		image: 'https://avatars.githubusercontent.com/u/106358234?v=4',
+		linkedIn: 'https://www.linkedin.com/in/gabriel-grezzana-4635ab209/',
+		personalWebpage: "",
+	},
 ];
 
 //Função para mostrar os cards com base no array de cadastros
